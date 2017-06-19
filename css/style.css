@@ -1,6 +1,13 @@
 body{
   text-align:center;
   background-color:#1E8BC3;
+  color:#ffffff;
 }
 
+a, a:hover{
+  color:#F62459;
+}
 
+a:hover{
+  text-decoration: underline;
+}
