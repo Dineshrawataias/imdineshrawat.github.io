@@ -2,8 +2,8 @@
 
 body{
   text-align:center;
-  background-color:#1E8BC3;
-  color:#ffffff;
+  background-color:#44BBFF;
+  color:#112233;
   font-family: 'Roboto', sans-serif;
   font-weight:400;
 }
@@ -14,7 +14,7 @@ h1{
 }
 
 a, a:hover{
-  color:#F62459;
+  color:#FC575E;
   font-family: inherit;
 }
 
