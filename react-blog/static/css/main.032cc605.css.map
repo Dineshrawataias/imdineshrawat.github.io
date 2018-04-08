@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACC,cAAgB,CAGjB,OACC,iBAAmB,CAGpB,OACC,yBAA2B","file":"static/css/main.032cc605.css","sourcesContent":["body{\n\tfont-size: 16px;\n}\n\n.mr-10{\n\tmargin-right: 10px;\n}\n\n.title{\n\ttext-transform: capitalize;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
